@@ -19,4 +19,4 @@ Expanding my knowledge in AI and exploring its ethical implications.
 Embark on this coding adventure with me !
 
 Happy Coding! 🚀
-![](https://media.giphy.com/media/S7FSQmBCa5iySWKs5g/giphy.gif?cid=ecf05e4706r4mag3q7jntj52x06y2jpi1ko232zcsdma0xgz&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![](https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif?cid=ecf05e476pcqf281dqbia5y3v3fsayoj839jg0tt03n8hx56&ep=v1_stickers_search&rid=giphy.gif&ct=s)
