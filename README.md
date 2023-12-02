@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Chloe, a passionate freshman engineering student at Ecoles des Mines de St Etienne. Welcome to my coding journey!
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdhbnM4dzJqNHIzcDk1bGg3aXJ5bTRkY3lnbnh0ZGp0anBiNnQzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lkceXNDw4Agryfrwz8/giphy.gif)" width="100"/>
+</div>
+
 🚀 About Me:
 I'm thrilled to be diving into the world of engineering, with a keen interest in software development and cutting-edge technologies. My coding adventure began with projects in HTML, SQL, and Ruby, and I've found my true love in Python. Currently, I'm exploring the intricacies of C and Matlab to deepen my programming prowess.
 
