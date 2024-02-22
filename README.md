@@ -2,7 +2,7 @@
 
 
 
-![](https://media.giphy.com/media/bPCwGUF2sKjyE/giphy.gif)
+![Alt Text](https://media.giphy.com/media/S7u66urzxc2J2/giphy.gif)
 
 <!-- 
     This line contains a commented-out URL to a Giphy GIF:
