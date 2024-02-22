@@ -4,6 +4,17 @@
 
 ![](https://media.giphy.com/media/bPCwGUF2sKjyE/giphy.gif)
 
+<!-- 
+    This line contains a commented-out URL to a Giphy GIF:
+    https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM4Zm83MzA0dDc5eHdtMHpvZHZ0enZmams5MWRmM21tdDVndG1lOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTngQ7Gpakdpm4nu/giphy.gif 
+    It's commented out, so it won't be rendered.
+-->
+
+<!-- 
+    This line contains a commented-out URL to a Tenor GIF:
+    https://media1.tenor.com/m/4ryx66tWEhcAAAAd/pixel-study.gif
+    It's commented out, so it won't be rendered.
+-->
 
 
 🚀 About Me:
