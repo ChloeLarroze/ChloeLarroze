@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Chloe, a passionate freshman engineering student at Ecoles des Mines de St Etienne. Welcome to my coding journey!
+### Hi there 👋 I'm Chloe, a passionate freshman engineering student at Ecoles des Mines de St Etienne. 
 
 
 
