@@ -1,19 +1,22 @@
-### Hi there 👋 I'm Chloe, a passionate sophmore engineering student at Ecoles des Mines de St Etienne. 
+### Hi there 👋 I'm Chloe, a sophmore engineering student at Ecoles des Mines de St Etienne. 
 
-
-
-![Alt Text](https://media.giphy.com/media/S7u66urzxc2J2/giphy.gif)
 
 <!-- 
-    This line contains a commented-out URL to a Giphy GIF:
+![Alt Text](https://media1.tenor.com/m/4ryx66tWEhcAAAAd/pixel-study.gif)
+-->
+
+
+<!-- 
+    Mulder
     https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM4Zm83MzA0dDc5eHdtMHpvZHZ0enZmams5MWRmM21tdDVndG1lOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTngQ7Gpakdpm4nu/giphy.gif 
-    It's commented out, so it won't be rendered.
 -->
 
 <!-- 
-    This line contains a commented-out URL to a Tenor GIF:
+    gif coding girl 
     https://media1.tenor.com/m/4ryx66tWEhcAAAAd/pixel-study.gif
-    It's commented out, so it won't be rendered.
+
+    rage
+    https://media.giphy.com/media/S7u66urzxc2J2/giphy.gif
 -->
 
 👩‍💻 Engineering student at École des Mines de Saint-Étienne (ISMIN program), with a focus on electronics, embedded systems, and computer science:
@@ -24,3 +27,9 @@
 
 
 ⚛️ Passionate about quantum computing and its potential to revolutionize AI and computational complexity.
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/chloé-larroze-63ba94241" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+</p>
