@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Chloe, a passionate freshman engineering student at Ecoles des Mines de St Etienne. 
+### Hi there 👋 I'm Chloe, a passionate sophmore engineering student at Ecoles des Mines de St Etienne. 
 
 
 
@@ -16,14 +16,11 @@
     It's commented out, so it won't be rendered.
 -->
 
+👩‍💻 Engineering student at École des Mines de Saint-Étienne (ISMIN program), with a focus on electronics, embedded systems, and computer science:
 
-🚀 About Me:
-I'm thrilled to be diving into the world of engineering, with a keen interest in software development and a strong foundation in mathematics and programming. My coding adventure began with projects in HTML, SQL, and Ruby, and I've found my true love in Python. Currently, I'm exploring the intricacies of C and assembly language to deepen my programming prowess.
+* Hardware Design: Experienced in SystemVerilog and VHDL programming for digital circuit design and verification. Skilled in signal processing and PCB design for custom hardware solutions.
+* Embedded Systems: Proficient in C/C++ for microcontroller programming, real-time systems development, and IoT applications. Knowledgeable in designing low-level software that interacts with hardware.
+* Computer Science: Strong foundation in algorithms, data structures, and object-oriented programming. Familiar with Python and software engineering practices, from design to deployment.
 
-💻 Tech Enthusiast:
-My coding playground is vast, ranging from crafting intricate Machine Learning models to exploring the realms of Artificial Intelligence. Python is my go-to language, and I revel in creating innovative solutions for real-world problems. Check out my repositories for a glimpse into my coding endeavors.
 
-🚧 Current Focus:
-Mastering C for robust system-level programming.
-Expanding my knowledge in AI and exploring its ethical implications.
-
+⚛️ Passionate about quantum computing and its potential to revolutionize AI and computational complexity.
