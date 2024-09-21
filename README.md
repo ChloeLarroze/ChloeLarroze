@@ -21,7 +21,7 @@
 
 👩‍💻 Engineering student at École des Mines de Saint-Étienne (ISMIN program), with a focus on electronics, embedded systems, and computer science:
 
-* Hardware Design: Experienced in SystemVerilog and VHDL programming for digital circuit design and verification. Skilled in signal processing and PCB design for custom hardware solutions.
+* Hardware Design: Experienced in SystemVerilog programming for digital circuit design and verification. Skilled in signal processing and PCB design for custom hardware solutions.
 * Embedded Systems: Proficient in C/C++ for microcontroller programming, real-time systems development, and IoT applications. Knowledgeable in designing low-level software that interacts with hardware.
 * Computer Science: Strong foundation in algorithms, data structures, and object-oriented programming. Familiar with Python and software engineering practices, from design to deployment.
 
