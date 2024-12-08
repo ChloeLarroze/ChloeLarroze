@@ -23,7 +23,7 @@
 
 * Hardware Design: Experienced in SystemVerilog programming for digital circuit design and verification. Skilled in signal processing and PCB design for custom hardware solutions.
 * Embedded Systems: Proficient in C/C++ for microcontroller programming, real-time systems development, and IoT applications. Knowledgeable in designing low-level software that interacts with hardware.
-* Computer Science: Strong foundation in algorithms, data structures, and object-oriented programming. Familiar with Python and software engineering practices, from design to deployment.
+* Computer Science: Strong foundation in algorithms, data structures, and object-oriented programming. Familiar with Python and software engineering practices, from design to deployment. Good fundamentals in AI and python AI libraries ( Tensorflow, Pytorch, Scikit-learn ). 
 
 
 ⚛️ Passionate about quantum computing and its potential to revolutionize AI and computational complexity.
