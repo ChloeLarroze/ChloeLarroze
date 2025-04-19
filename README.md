@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Chloe, a sophmore engineering student at Ecoles des Mines de St Etienne. 
+### Hi there 👋 I'm Chloe, a senior engineering student at Ecoles des Mines de St Etienne. 
 
 
 <!-- 
