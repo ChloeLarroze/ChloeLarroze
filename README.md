@@ -25,9 +25,8 @@
 * Embedded Systems: Proficient in C/C++ for microcontroller programming, real-time systems development, and IoT applications. Knowledgeable in designing low-level software that interacts with hardware.
 * Computer Science: Strong foundation in algorithms, data structures, and object-oriented programming. Familiar with Python and software engineering practices, from design to deployment. Good fundamentals in AI and python AI libraries ( Tensorflow, Pytorch, Scikit-learn ).
 
-<!-- 
+
 ![]( https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM4Zm83MzA0dDc5eHdtMHpvZHZ0enZmams5MWRmM21tdDVndG1lOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTngQ7Gpakdpm4nu/giphy.gif )
--->
 
 
 ### Tech Toolbox
