@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Chloe, a senior engineering student at Ecoles des Mines de St Etienne. 
+### Hi there 👋 I'm Chloe, a grad engineering student at Ecoles des Mines de St Etienne. 
 
 👩‍💻 Engineering student at École des Mines de Saint-Étienne (ISMIN program), with a focus on electronics, embedded systems, and computer science:
 
